@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175870153753",
+    "project_id": "pranav-907ab",
+    "storage_bucket": "pranav-907ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175870153753:android:00898cda659464d30a4688",
+        "android_client_info": {
+          "package_name": "com.example.pranav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBng930LkRMwZF9jc_or-TgGrs7mR54ZdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
